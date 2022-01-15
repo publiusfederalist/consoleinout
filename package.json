@@ -1,14 +1,14 @@
 {
-  "name": "consolein",
+  "name": "consoleio",
   "version": "1.0.0",
-  "description": "Binds an input method to console.",
+  "description": "Binds an input and output method to console.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/publiusfederalist/consolein.git"
+    "url": "git+https://github.com/publiusfederalist/consoleio.git"
   },
   "keywords": [
     "console",
@@ -24,7 +24,7 @@
   "author": "publiusfederalist",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/publiusfederalist/consolein/issues"
+    "url": "https://github.com/publiusfederalist/consoleio/issues"
   },
-  "homepage": "https://github.com/publiusfederalist/consolein#readme"
+  "homepage": "https://github.com/publiusfederalist/consoleio#readme"
 }
