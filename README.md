@@ -1,4 +1,4 @@
-# consoleio
+# consoleinout
 ### IO for console on nodeJS
 
 There is no easy way to read input.  Additionally, console.log() automatically adds a "\n" which you may not wish for.  This provides an alternative.
@@ -17,6 +17,7 @@ npm install consoleinout
 
 ### Example
 
+```
 const ConsoleIO = new (require("consoleinout"))(console);
 
 (async function() {
@@ -25,6 +26,7 @@ const ConsoleIO = new (require("consoleinout"))(console);
   console.output("You entered",pass,"\n");
   process.exit();
 })();
+```
 
 ### Discuss
 
