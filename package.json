@@ -1,5 +1,5 @@
 {
-  "name": "consoleio",
+  "name": "consoleinout",
   "version": "1.0.0",
   "description": "Binds an input and output method to console.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/publiusfederalist/consoleio.git"
+    "url": "git+https://github.com/publiusfederalist/consoleinout.git"
   },
   "keywords": [
     "console",
@@ -24,7 +24,7 @@
   "author": "publiusfederalist",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/publiusfederalist/consoleio/issues"
+    "url": "https://github.com/publiusfederalist/consoleinout/issues"
   },
-  "homepage": "https://github.com/publiusfederalist/consoleio#readme"
+  "homepage": "https://github.com/publiusfederalist/consoleinout#readme"
 }

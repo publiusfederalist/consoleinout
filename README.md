@@ -6,18 +6,18 @@ There is no easy way to read input.  Additionally, console.log() automatically a
 ### Installation
 
 ```
-git clone https://github.com/publiusfederalist/consoleio
-```
+git clone https://github.com/publiusfederalist/consoleinout
+````
 
 or
 
 ```
-npm install consoleio
+npm install consoleinout
 ```
 
 ### Example
 
-const ConsoleIO = new (require("consoleio"))(console);
+const ConsoleIO = new (require("consoleinout"))(console);
 
 (async function() {
   console.output("Enter password: ");
