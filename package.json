@@ -1,6 +1,6 @@
 {
   "name": "consoleinout",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Binds an input and output method to console.",
   "main": "index.js",
   "scripts": {

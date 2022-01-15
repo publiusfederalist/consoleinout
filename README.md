@@ -15,6 +15,25 @@ or
 npm install consoleinout
 ```
 
+## Usage
+
+```
+const ConsoleIO = new (require("consoleinout"))(console);
+console.output("Some","text");
+let input = await console.input()
+console.output("You entered ",input);
+```
+
+Mute echo
+```
+console.input(true);
+```
+
+Unmute echo
+```
+console.input(false);
+```
+
 ### Example
 
 ```
